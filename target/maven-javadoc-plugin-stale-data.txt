@@ -1,0 +1,41 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/Piixxel/Documents/NetBeansProjects/POOP11/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Piixxel/Documents/NetBeansProjects/POOP11/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'POOP11 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Piixxel/Documents/NetBeansProjects/POOP11/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'POOP11 1.0-SNAPSHOT API'
+com.mycompany.poop11
+'C:/Users/Piixxel/Documents/NetBeansProjects/POOP11/src/main/java/com/mycompany/poop11/Main.java'
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP11\src\main\java = 1637808987937
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP11\target\site\apidocs\allclasses-frame.html = 1637811548227
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP11\target\site\apidocs\allclasses-noframe.html = 1637811548232
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP11\target\site\apidocs\constant-values.html = 1637811548147
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP11\target\site\apidocs\deprecated-list.html = 1637811548222
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP11\target\site\apidocs\help-doc.html = 1637811548257
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP11\target\site\apidocs\index-all.html = 1637811548212
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP11\target\site\apidocs\index.html = 1637811548237
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP11\target\site\apidocs\overview-tree.html = 1637811548202
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP11\target\site\apidocs\package-list = 1637811548052
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP11\target\site\apidocs\script.js = 1637811548267
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP11\target\site\apidocs\stylesheet.css = 1637811548262
